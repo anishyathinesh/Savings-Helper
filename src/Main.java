@@ -5,7 +5,7 @@ import java.util.Scanner;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        //pls commit
+        //pls commit rn
         Scanner in = new Scanner(System.in);
 
         System.out.print("enter base money: ");
